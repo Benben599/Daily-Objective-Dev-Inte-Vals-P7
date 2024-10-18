@@ -24,9 +24,9 @@ Benjamin
   - [ ] Renommer son dernier commit en respectant cette convention
 - [X] Comprendre le fonctionnement des branches dans Git :
   - [ ] Lister, changer, créer, supprimer des branches
-- [ ] Comprendre le merge dans Git
-  - [ ] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [X] Comprendre le merge dans Git
+  - [X] Comprendre le "fast forward"
+  - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
