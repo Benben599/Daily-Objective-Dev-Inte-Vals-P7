@@ -10,10 +10,10 @@ Christopher
 
 ### Git
 
-- [ ] Comprendre le principe de "Pull Request"
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] `.gitignore` global ou pas ?
+- [X] Comprendre le principe de "Pull Request"
+- [X] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+- [X] Comprendre l'utilité et le fonctionnement de `git stash`
+- [X] `.gitignore` global ou pas ?
 - [X] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [X] À quoi sert la commande `git fetch —prune`
   - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
