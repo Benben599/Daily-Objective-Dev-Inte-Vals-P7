@@ -6,10 +6,10 @@ Benjamin
 
 ### Git :
 
-- [ ] Comprendre la différence entre `git reset` et `git revert`
+- [X] Comprendre la différence entre `git reset` et `git revert`
 - [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
-- [ ] Comprendre et utiliser le `git diff` (quelle utilité)
-- [ ] Comprendre la différence entre `git log` et `git show`.
+- [X] Comprendre et utiliser le `git diff` (quelle utilité)
+- [X] Comprendre la différence entre `git log` et `git show`.
 
 ### Setup Workflow Git
 
