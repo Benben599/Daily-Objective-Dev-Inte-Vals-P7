@@ -21,19 +21,19 @@ Benjamin
 - [X] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [X] https://www.conventionalcommits.org/fr/v1.0.0/
-  - [ ] Renommer son dernier commit en respectant cette convention
+  - [x] Renommer son dernier commit en respectant cette convention
 - [X] Comprendre le fonctionnement des branches dans Git :
-  - [ ] Lister, changer, créer, supprimer des branches
+  - [x] Lister, changer, créer, supprimer des branches
 - [X] Comprendre le merge dans Git
   - [X] Comprendre le "fast forward"
   - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
-- [ ] Pimper son profile Github
-- [ ] Découvrir l'interface de Github :
-  - [ ] Pull Requests
-  - [ ] Branches
-  - [ ] Issues
-  - [ ] Settings projet
-  - [ ] Settings profile
+- [x] Pimper son profile Github
+- [x] Découvrir l'interface de Github :
+  - [x] Pull Requests
+  - [x] Branches
+  - [x] Issues
+  - [x] Settings projet
+  - [x] Settings profile
